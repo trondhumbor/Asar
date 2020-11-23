@@ -3,7 +3,7 @@ import os
 import struct
 
 
-class Asar(object):
+class Unpack(object):
 
     def __init__(self, file):
         self.file = file
